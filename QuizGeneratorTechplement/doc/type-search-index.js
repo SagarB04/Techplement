@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.quizgenerator","l":"CreateQuiz"},{"p":"com.quizgenerator","l":"Question"},{"p":"com.quizgenerator","l":"QuizGenerator"},{"p":"com.quizgenerator","l":"TakeQuiz"}];updateSearchResults();
